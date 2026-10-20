@@ -11,7 +11,12 @@
     "key-theft": "node scenarios/key_theft.js",
     "sybil": "node scenarios/sybil.js",
     "quorum": "node scenarios/quorum_tampering.js",
-    "break": "node scenarios/break_bft.js"
+    "break": "node scenarios/break_bft.js",
+    "h-equivocation": "node scenarios/hardened_equivocation.js",
+    "h-keys": "node scenarios/hardened_keys.js",
+    "h-sybil": "node scenarios/hardened_sybil.js",
+    "h-quorum": "node scenarios/hardened_quorum.js",
+    "h-cert": "node scenarios/hardened_certificate.js"
   }, 
   "author": "Inah Omororonyia",
   "license": "ISC"

@@ -2,8 +2,8 @@
 
 **Unit:** Fundamentals of System Security (COMSM0122)
 **Workshop:** 2 - Breaking and Understanding Byzantine Fault Tolerance
-**Date:** `<workshop date>`
-**Authors:** `<your names>`
+**Date:** `<20-10-2026>`
+**Authors:** `Steve Joseph`
 
 ## Overview
 
