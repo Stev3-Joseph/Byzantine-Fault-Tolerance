@@ -15,7 +15,7 @@ A simplified JavaScript BFT simulator used to observe, attack and harden a conse
 bft-lab/
 ├── package.json
 ├── simulator.js
-├── bftnode.js        (renamed from node.js, see note below)
+├── bftnode.js
 ├── network.js
 ├── crypto.js
 ├── quorum.js
@@ -30,7 +30,6 @@ bft-lab/
     └── break_bft.js
 ```
 
-> **Note:** `node.js` was renamed to `bftnode.js`. On Windows, the `node` command can resolve to a local `node.js` file and open it with Windows Script Host instead of Node.
 
 ## Setup and running
 
